@@ -167,9 +167,12 @@ The application will be available through the Streamlit development server, usua
 ## Example Input
 
 ```text
-Build an AI-powered learning platform where students can upload study materials,
-ask questions, generate quizzes, track their learning progress, and receive
-personalized recommendations.
+I want to build an AI-powered Resume Analyzer platform.
+Users can upload their resumes in PDF or DOCX format and receive personalized feedback on ATS compatibility, missing skills, keyword optimization, grammar issues, and job-role matching.The platform should allow users to compare their resumes against a job description and receive a match score.
+
+Premium users should have access to resume rewriting suggestions, AI-generated cover letters, and interview preparation questions.the system should support thousands of users, provide secure document storage, and offer analytics dashboards for users.
+
+Generate a complete technical architecture, technology stack, database design, APIs, deployment strategy, scalability considerations, and security recommendations.
 ```
 
 ## Example Output
