@@ -9,7 +9,23 @@ ArchMind helps developers and product teams move from a high-level product idea 
 Users describe what they want to build, configure the expected application type and scale, and receive a structured architecture containing system components, APIs, database entities, AI components, security considerations, scalability considerations, and architectural risks.
 
 The application uses an LLM as an architecture-generation component rather than as a simple conversational chatbot.
+## Screenshots
 
+### 1. System Design Input
+
+![ArchMind Home](screenshots/archmind-home.png)
+
+### 2. Generated Architecture
+
+![Generated Architecture](screenshots/generated-architecture.png)
+
+### 3. Architecture Components
+
+![Architecture Components](screenshots/architecture-components.png)
+
+### 4. Architecture Critique
+
+![Architecture Critique](screenshots/architecture-critique.png)
 ## Key Features
 
 - Natural-language system requirements
@@ -231,7 +247,7 @@ Planned improvements include:
 
 ## Project Status
 
-**Version:** 1.0 - MVP
+**Version:** 1.0 - LLM-based AI System Architecture MVP
 
 The current version focuses on LLM integration, structured architecture generation, validation, interactive visualization, and architecture critique.
 
