@@ -21,7 +21,7 @@ The application uses an LLM as an architecture-generation component rather than 
 
 ### 3. Architecture Components
 
-![Architecture Components](screenshots/architecture-components.png)
+![Architecture Components](screenshots/architecture-component.png)
 
 ### 4. Architecture Critique
 
